@@ -24,6 +24,7 @@ Welcome to the source code of my personal developer portfolio — a modern, resp
 - ⚙️ Optimized for performance and scalability
 
 ---
+## Live link = https://porfolio-ajay-singh.vercel.app/
 
 ## 🛠️ Getting Started
 
@@ -33,5 +34,3 @@ Welcome to the source code of my personal developer portfolio — a modern, resp
 - git clone https://github.com/AjaySingh-a/PorfolioAjaySingh.git
 -cd PorfolioAjaySingh
 
-
-## Live link = https://porfolio-ajay-singh.vercel.app/
