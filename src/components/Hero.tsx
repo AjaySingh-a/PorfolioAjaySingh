@@ -74,7 +74,7 @@ const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
             transition={{ delay: 1.1 }}
             className="text-lg text-gray-400 max-w-2xl mx-auto mb-12"
           >
-            I specialise in designing and building high performance web And mobile applications combining pixel perfect interfaces with scalable architectures.
+            I specialise in designing and building high performance web and mobile applications combining pixel perfect interfaces with scalable architectures.
           </motion.p>
           
           <motion.div
