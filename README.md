@@ -30,5 +30,8 @@ Welcome to the source code of my personal developer portfolio — a modern, resp
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AjaySingh-a/PorfolioAjaySingh.git
-cd PorfolioAjaySingh
+- git clone https://github.com/AjaySingh-a/PorfolioAjaySingh.git
+-cd PorfolioAjaySingh
+
+
+## Live link = https://porfolio-ajay-singh.vercel.app/
