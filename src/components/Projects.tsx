@@ -61,7 +61,7 @@ const Projects: React.FC = () => {
       image: '/1.png',
       category: ['React Native', 'Java', 'Fullstack'],
       tags: ['React Native', 'Java', 'Springboot', 'PostgreSQL'],
-      liveUrl: '#',
+      liveUrl: 'https://play.google.com/store/apps/details?id=com.ajay.s_16.ooterfrontend',
       githubUrl: 'https://github.com/AjaySingh-a/ooter-backend.git',
     },
 
