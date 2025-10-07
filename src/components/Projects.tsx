@@ -62,7 +62,7 @@ const Projects: React.FC = () => {
       category: ['React Native', 'Java', 'Fullstack'],
       tags: ['React Native', 'Java', 'Springboot', 'PostgreSQL'],
       liveUrl: '#',
-      githubUrl: '#',
+      githubUrl: 'https://github.com/AjaySingh-a/ooter-backend.git',
     },
 
   ];
