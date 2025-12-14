@@ -70,7 +70,7 @@ const Navigation: React.FC<NavigationProps> = ({ currentSection, onNavigate }) =
 
               {/* Download CV Button */}
               <a
-                href="/Ajaysingh_asm16092003@gmail.com_resume.pdf"
+                href="/Ajay Singh.pdf"
                 download
                 className="bg-red-500 hover:bg-red-600 px-4 py-2 rounded-lg text-sm font-medium flex items-center gap-2 transition-colors"
               >
